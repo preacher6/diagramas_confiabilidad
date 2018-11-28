@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg843"
+   inkscape:export-filename="C:\Users\juafe\Drive UTP\Trabajos\Python\Mantenimiento\v_1-9\pics\knn.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="knn.svg">
+  <defs
+     id="defs837">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5624">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5620" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop5622" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5624"
+       id="linearGradient1422"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.0743582,0,0,2.0743582,4.8981838,-345.14931)"
+       x1="5.953125"
+       y1="299.45682"
+       x2="6.1421132"
+       y2="290.95236" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5624"
+       id="linearGradient1436"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.0743582,0,0,2.0743582,4.8981838,-318.69097)"
+       x1="5.953125"
+       y1="299.45682"
+       x2="6.1421132"
+       y2="290.95236" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="75.629158"
+     inkscape:cy="86.197917"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata840">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       ry="2.5481887"
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       y="249.45905"
+       x="5.3757148"
+       height="20.998569"
+       width="20.998569"
+       id="rect1418"
+       style="fill:#a4a4a4;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.16809656;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       inkscape:export-filename="C:\Users\juafe\Drive UTP\Trabajos\Python\Mantenimiento\v_1-3\pics\caja_mini.png"
+       style="fill:url(#linearGradient1422);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.16809656;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1420"
+       width="20.998569"
+       height="20.998569"
+       x="5.3757148"
+       y="249.45905"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       ry="2.5481887" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 5.293144,259.95804 -5.29297622044,5.8e-4"
+       id="path1424"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1426"
+       d="m 31.750383,259.95804 -5.291638,5.8e-4"
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#a4a4a4;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.16809656;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1428"
+       width="20.998569"
+       height="20.998569"
+       x="5.3757148"
+       y="275.91739"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       ry="2.5481887" />
+    <rect
+       ry="2.5481887"
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       y="275.91739"
+       x="5.3757148"
+       height="20.998569"
+       width="20.998569"
+       id="rect1430"
+       style="fill:url(#linearGradient1436);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.16809656;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\juafe\Drive UTP\Trabajos\Python\Mantenimiento\v_1-3\pics\caja_mini.png" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1432"
+       d="m 5.293144,286.41638 -5.29297622044,5.8e-4"
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 31.750383,286.41638 -5.291638,5.8e-4"
+       id="path1434"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26499996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 31.617767,286.4491 -0.0029,-26.62232"
+       id="path1438"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1440"
+       d="m 0.13432592,286.44968 -0.0029,-26.62232"
+       style="fill:none;stroke:#000000;stroke-width:0.26499996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
